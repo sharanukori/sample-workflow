@@ -1,4 +1,4 @@
-name: Default Environment variables
+name: Default Environment variable
 
 on: push
 
